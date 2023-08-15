@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+
+body{
+	width:1100px
+    height:auto;
+}
+table,tr,td{
+	border:1px solid;
+	border-collapse: collapse;
+}
+.last{
+	width:200px;
+}
+.middle{
+width:600px;	
+}
+img{
+	width:200px;
+	
+}
